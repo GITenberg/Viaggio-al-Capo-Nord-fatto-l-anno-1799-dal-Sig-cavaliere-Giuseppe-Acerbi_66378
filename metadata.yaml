@@ -1,0 +1,38 @@
+_repo: Viaggio-al-Capo-Nord-fatto-l-anno-1799-dal-Sig-cavaliere-Giuseppe-Acerbi_66378
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Acerbi, Giuseppe
+    birthdate: 1773
+    deathdate: 1846
+    gutenberg_agent_id: '53779'
+    url: http://www.gutenberg.org/2009/agents/53779
+    wikipedia:
+    - https://it.wikipedia.org/wiki/Giuseppe_Acerbi
+    - https://en.wikipedia.org/wiki/Giuseppe_Acerbi
+  editor:
+    agent_name: Compagnoni, Giuseppe
+    alias: Belloni, Giuseppe
+    birthdate: 1754
+    deathdate: 1833
+    gutenberg_agent_id: '53780'
+    url: http://www.gutenberg.org/2009/agents/53780
+    wikipedia:
+    - https://it.wikipedia.org/wiki/Giuseppe_Compagnoni
+    - https://en.wikipedia.org/wiki/Giuseppe_Compagnoni
+description: ''
+gutenberg_issued: '2021-09-25'
+identifiers:
+  gutenberg: '66378'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DL'
+- !lcsh 'Scandinavia -- Description and travel'
+- GITenberg
+title: 'Viaggio al Capo Nord
+
+  fatto l''anno 1799 dal Sig. cavaliere Giuseppe Acerbi'
+url: http://www.gutenberg.org/ebooks/66378
