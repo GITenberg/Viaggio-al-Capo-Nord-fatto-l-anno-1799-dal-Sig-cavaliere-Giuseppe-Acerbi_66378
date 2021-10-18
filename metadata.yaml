@@ -1,5 +1,8 @@
 _repo: Viaggio-al-Capo-Nord-fatto-l-anno-1799-dal-Sig-cavaliere-Giuseppe-Acerbi_66378
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66378-h/images/cover.jpg
 creator:
   author:
     agent_name: Acerbi, Giuseppe
@@ -21,6 +24,8 @@ creator:
     - https://it.wikipedia.org/wiki/Giuseppe_Compagnoni
     - https://en.wikipedia.org/wiki/Giuseppe_Compagnoni
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66378#Viaggio-al-Capo-Nord-fatto-l-anno-1799-dal-Sig-cavaliere-Giuseppe-Acerbi
 gutenberg_issued: '2021-09-25'
 identifiers:
   gutenberg: '66378'
